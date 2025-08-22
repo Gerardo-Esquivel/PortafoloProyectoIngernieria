@@ -3,7 +3,7 @@
 ## 1) NOSOTROS SOMOS
 ## Gerardo Esquivel 
 ---
-img
+![imagen](recursos/imgs/pexels-souvenirpixels-417074.jpg)
 ---
 - **Carrera:**Ing. Mecatrónica
 - **Hobbies:** Bicicleta, videojuegos
