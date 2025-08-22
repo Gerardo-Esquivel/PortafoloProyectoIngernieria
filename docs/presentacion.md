@@ -8,7 +8,7 @@
 - **Descripción breve:** _Una o dos líneas que expliquen qué hace y por qué._
 ---
 ## ISMAEL GUERRERO
-![imagenjoy](docs/imgs/joy.jpeg)
+![imagenjoy](imgs/joy.jpeg)
 - **Carrera:**Ing. Mecatrónica
 - **Hobbies:** Bicicleta, videojuegos
 - **Descripción breve:** _Una o dos líneas que expliquen qué hace y por qué._
