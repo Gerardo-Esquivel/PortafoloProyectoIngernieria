@@ -16,6 +16,6 @@
 - **Carrera:**Ing. Mecatrónica
 - **De donde vengo:** Soy de Puebla
 - **Cosas que me gustan:** Videojuegos, música, formula 1, tecnología
-- **Algo de lo que estoy orgulloso:** de mi familia y del tamaño de mi pene
+- **Algo de lo que estoy orgulloso:** de mi familia
 - **Edad:** 18 años
 - **Cumpleaños:** 23 de julio
