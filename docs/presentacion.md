@@ -3,7 +3,6 @@
 ## NOSOTROS SOMOS
 ---
 ## Gerardo Esquivel 
-<img src="imgs/gerardo.jpeg" alt="imagengerardo" width="350">
 ---
 - **Carrera:** Ing. Mecatrónica
 
@@ -19,7 +18,6 @@
   
 ---
 ## ISMAEL GUERRERO
-<img src="imgs/joy.jpeg" alt="imagenjoy" width="350">
 - **Carrera:**Ing. Mecatrónica
 - **De donde vengo:** Soy de Puebla
 - **Cosas que me gustan:** Videojuegos, música, formula 1, tecnología
