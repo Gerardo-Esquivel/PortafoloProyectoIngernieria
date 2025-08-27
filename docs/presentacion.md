@@ -4,6 +4,7 @@
 ---
 ## Gerardo Esquivel 
 ---
+<img src="../imgs/gerardo.jpeg" alt="foto_gerardo" width="350">
 - **Carrera:** Ing. Mecatrónica
 
 - **De donde vengo:** Soy de Puebla
