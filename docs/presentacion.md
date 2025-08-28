@@ -21,6 +21,9 @@
   
 ---
 ## ISMAEL GUERRERO
+---
+<img src="../imgs/josisma" alt="foto_joy" width="350">
+---
 - **Carrera:**Ing. Mecatrónica
 - **De donde vengo:** Soy de Puebla
 - **Cosas que me gustan:** Videojuegos, música, formula 1, tecnología
