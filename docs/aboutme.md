@@ -1,6 +1,9 @@
 # CONÓCEME
 ---
 
+<img src="../imgs/gerardo2.jpeg" alt="foto_gerardo2" width="350">
+
+---
 Soy Gerardo Esquivel de Luna, tengo 18 años y estudio Ingeniería Mecatrónica en la IBERO Puebla. Hice esta página para ir guardando lo que voy aprendiendo en la carrera, mis proyectos y todo el proceso de mi aprendizaje.
 
 Fuera de clases me gusta mucho el ciclismo de montaña, el alpinismo y en general estar en contacto con la naturaleza. También disfruto salir con mis amigos y conocer lugares nuevos, creo que eso me ayuda a despejarme y a ver las cosas de otra manera.
